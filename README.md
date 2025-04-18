@@ -1,5 +1,4 @@
-# 🔥United We Stand: Towards End-to-End Log-based Fault Diagnosis
-via Interactive Multi-Task Learning
+# 🔥United We Stand: Towards End-to-End Log-based Fault Diagnosisvia Interactive Multi-Task Learning
 
 <img src="imgs/pipeline.jpg" alt="drawing" width="100%"/>
 
