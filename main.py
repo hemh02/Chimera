@@ -99,7 +99,7 @@ def parse_args():
     parser.add_argument("--hard_device", default='cuda', type=str, help="cpu or cuda")
     parser.add_argument("--gpu_index", default=0, type=int, help='gpu index, one of [0,1,2,3,...]')
     parser.add_argument("--load_checkpoint", nargs='?', const=True, default=False, type=str2bool,
-                        help="是否加载训练保存的权重, one of [t,f]")
+                        help="one of [t,f]")
     parser.add_argument('--model_save_path', default='checkpoint', type=str)
     parser.add_argument('--epochs', default=10, type=int, help='epochs')
     parser.add_argument('--batch_size', default=256, type=int, help='batch size')
