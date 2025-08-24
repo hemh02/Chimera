@@ -1,6 +1,8 @@
-# 🔥United We Stand: Towards End-to-End Log-based Fault Diagnosisvia Interactive Multi-Task Learning
+# 🔥United We Stand: Towards End-to-End Log-based Fault Diagnosisvia Interactive Multi-Task Learning (ASE 2025)
 
 <img src="imgs/pipeline.jpg" alt="drawing" width="100%"/>
+
+This is the basic implementation of our paper in ASE 2025 (Research Track): United We Stand: Towards End-to-End Log-based Fault Diagnosisvia Interactive Multi-Task Learning
 
 - [Chimera](#Chimera)
   
